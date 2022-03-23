@@ -80,9 +80,13 @@ boost_1_78_0/doc/html/boost_asio/example/cpp03/spawn/parallel_grep.cpp``
 
 10.Подсчитайте сколько занимает дискового пространства каждый файл в этой директории.
 
+``$ ls -l -R -S -h``
+
 ``total 680K``
 
 11.Найдите топ10 самых "тяжёлых".
+
+``$ ls -l -R -S | head -10``
 
 ``total 3900
 -rw-rw-r— 1 maks maks 3295319 мар 23 23:21 Test10.txt
