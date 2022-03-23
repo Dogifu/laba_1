@@ -1,4 +1,5 @@
-## laba_1
+
+## laba_1 Кorotov Maksim
 1. Скачайте библиотеку "boost" с помощью утилиты wget. Адрес для скачивания
 https://sourceforge.net/projects/boost/files/boost/1.78.0/boost_1_78_0.tar.gz.
 
